@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "TestTiemposHeadlineRegular";
+	src: url("https://uploads-cdn.stackla.com/10/victoriaracingclub/2021-10-25/b749b7e3105ce4deff6bfd75ead0523e/original.otf") format("embedded-opentype");
+}
+
+@font-face {
+	font-family: "SohneBuch";
+	src: url("https://uploads-cdn.stackla.com/10/victoriaracingclub/2021-10-25/eed881abde46185c0974292ebdb9075e/original.otf") format("embedded-opentype");
+}
+
+@font-face {
+	font-family: "SohneHalbfett";
+	src: url("https://uploads-cdn.stackla.com/10/victoriaracingclub/2021-10-25/3fee7c3c1cb0019b63d8437edec61d72/original.otf") format("embedded-opentype");
+}
